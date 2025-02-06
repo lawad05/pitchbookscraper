@@ -37,11 +37,11 @@ Extract and display relevant data.
 Save the information in an Excel file with formatting and a company logo.
 
 **Notes and Recommendations**
-Error Handling: The script includes try-except blocks to handle various errors, such as missing elements or timeouts.
-Performance: Depending on the number of companies, the script may take time to navigate PitchBook and extract information.
-Selenium Chrome Setup: Ensure you have a stable Chrome WebDriver compatible with your Chrome version.  
+- Error Handling: The script includes try-except blocks to handle various errors, such as missing elements or timeouts.
+- Performance: Depending on the number of companies, the script may take time to navigate PitchBook and extract information.
+- Selenium Chrome Setup: Ensure you have a stable Chrome WebDriver compatible with your Chrome version.  
 
 **Troubleshooting**
-If the script cannot find elements on PitchBook, verify that the site structure hasn't changed.
-Ensure Chrome is running in debugging mode (--remote-debugging-port=9222).
-Check that your WebDriver is up-to-date.  
+- If the script cannot find elements on PitchBook, verify that the site structure hasn't changed.
+- Ensure Chrome is running in debugging mode (--remote-debugging-port=9222).
+- Check that your WebDriver is up-to-date.  
