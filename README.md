@@ -1,6 +1,6 @@
 # Pitchbook Scraper README
 **Overview**
-This Python script automates the process of extracting company data from PitchBook using Selenium and BeautifulSoup. The extracted data is saved in an Excel file formatted with OpenPyXL. This tool is designed for finance professionals who need to collect and organize company information efficiently.  
+This Python script automates the process of extracting company data from PitchBook using Selenium and BeautifulSoup. The extracted data is saved in an Excel file formatted with OpenPyXL. This tool is designed for finance professionals who need to collect and organize company information efficiently.    
 **Features**
 - Searches for multiple companies on PitchBook.
 - Extracts key details, including:
